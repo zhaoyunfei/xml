@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+        <bookstory>
+    <book id="1">
+        <name>111</name>
+        <price>43423</price>
+        <author>云飞</author>
+        <year>2014</year>
+    </book>
+    <book id="2">
+        <name>43223432</name>
+        <price>24</price>
+        <language>English</language>
+    </book>
+</bookstory>
