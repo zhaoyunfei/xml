@@ -1,1 +1,1 @@
-# xml
+使用DOM、SAX、JDOM、DOM4J四种方式对xml进行解析写入
